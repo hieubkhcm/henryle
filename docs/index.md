@@ -1,43 +1,12 @@
 ## Welcome to Henry's Pages
 
-Hi, my name is Henry, I am currently working in s Taiwan as s software engineer is looking a Software Development job.
-<!---
-### Markdown
+Hi, my name is Henry, this website is the place to display and experiment my personal projects.
+I am currently working as a software engineer in a telco company in Taiwan and so will share some useful information about 5G technology on the page as well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hieubkhcm/hieubkhcm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Todo: link to Linkedin
+Todo: link to Github
+Todo: link to indeed.ca
+Todo: writing down more todos :)
 
 
 
-Redundant:
-[editor on GitHub](https://github.com/hieubkhcm/hieubkhcm.github.io/edit/main/docs/index.md) 
-[Jekyll](https://jekyllrb.com/)
-
- -->
